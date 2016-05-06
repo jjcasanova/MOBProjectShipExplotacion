@@ -21,6 +21,11 @@
 								<option id="it.baeyens.arduino.compiler.cpp.sketch.option.incpath.1383841598" name="Include Paths (-I)" superClass="it.baeyens.arduino.compiler.cpp.sketch.option.incpath" valueType="includePath">
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/MOBProjectShipExplotacion/core/core}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/MOBProjectShipExplotacion/core/variant}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/MOBProjectShipExplotacion/libraries/Wire}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/MOBProjectShipExplotacion/libraries/Wire/src}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/MOBProjectShipExplotacion/libraries/TinyGPSPlus-0.94b}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/MOBProjectShipExplotacion/libraries/VirtualWire}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/MOBProjectShipExplotacion/libraries/LiquidCrystal-i2c}&quot;"/>
 								</option>
 								<inputType id="it.baeyens.arduino.compiler.cpp.sketch.input.1245986574" name="CPP source files" superClass="it.baeyens.arduino.compiler.cpp.sketch.input"/>
 							</tool>
@@ -28,6 +33,11 @@
 								<option id="it.baeyens.arduino.compiler.c.sketch.option.incpath.197244611" name="Include Paths (-I)" superClass="it.baeyens.arduino.compiler.c.sketch.option.incpath" valueType="includePath">
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/MOBProjectShipExplotacion/core/core}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/MOBProjectShipExplotacion/core/variant}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/MOBProjectShipExplotacion/libraries/Wire}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/MOBProjectShipExplotacion/libraries/Wire/src}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/MOBProjectShipExplotacion/libraries/TinyGPSPlus-0.94b}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/MOBProjectShipExplotacion/libraries/VirtualWire}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/MOBProjectShipExplotacion/libraries/LiquidCrystal-i2c}&quot;"/>
 								</option>
 								<inputType id="it.baeyens.arduino.compiler.c.sketch.input.1530988202" name="C Source Files" superClass="it.baeyens.arduino.compiler.c.sketch.input"/>
 							</tool>
